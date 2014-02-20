@@ -1,0 +1,16 @@
+<html>
+<head>
+<<<<<<< HEAD
+Welcome!
+</head>
+<body>
+<h1>Cool Stuff</h1>
+=======
+Welcome To New Feature! 
+</head>
+<body>
+<h1>Cool New Feature!</h1>
+<h2>Massive</h2>
+>>>>>>> newfeature
+</body>
+</html>
